@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "experiment.html",
+    "currentPage": "index.html",
     "name": "JEREMY D'HAMERS",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 70,
+    "uniqCompNum": 74,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -50,6 +50,73 @@
         "order": 1
       },
       "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#161616",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/22a-115-1965x2947.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22a-115-1965x2947-800x1199.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/22a-139-1819x2729.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22a-139-1819x2729-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/22a-115-1965x2947.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22a-115-1965x2947-800x1199.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/22a-139-1819x2729.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22a-139-1819x2729-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-21"
+        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -87,7 +154,7 @@
             "paddingBottom": "0",
             "bgColor": "#161616"
           },
-          "title": "<i><a href=\"contact.html\" class=\"text-primary\"><br></a></i><i><a href=\"experiment.html\" class=\"text-primary\">&lt;&lt;W O R K &nbsp;IN &nbsp;P R O G R E S S</a><a href=\"contact.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"contact.html\" class=\"text-primary\">_______________&gt;&gt; C O N T A C T</a></i><br><br>",
+          "title": "<i><a href=\"experiment.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"experiment.html\" class=\"text-primary\">&lt;&lt;W O R K &nbsp;IN &nbsp;P R O G R E S S</a><a href=\"contact.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"contact.html\" class=\"text-primary\">_______________&gt;&gt; C O N T A C T</a></i><br><br>",
           "meta": "________/......<br><a href=\"https://www.youtube.com/watch?v=_t8za9rgMSg\" target=\"_blank\" class=\"text-primary\">APS / &nbsp;JMSN</a>_________________<br>:_______________<a href=\"https://www.youtube.com/watch?v=QwJ1R2wsbQE&amp;t=125s\" target=\"_blank\" class=\"text-primary\">APS / DESIIGNER</a><i><a href=\"https://www.youtube.com/watch?v=QwJ1R2wsbQE&amp;t=125s\" target=\"_blank\" class=\"text-primary\"><br></a></i><a href=\"https://vimeo.com/256769826\" target=\"_blank\" class=\"text-primary\">LEVI'S BELGIUM / BTS SHOOT</a>______________________/<br>&lt;_______________::<a href=\"https://www.youtube.com/watch?v=YWLR2uy2OWc&amp;t=513s\" target=\"_blank\" class=\"text-primary\">APS / RAE SREMMURD</a>&gt;<br>______________________<a href=\"https://www.youtube.com/watch?v=VNlIOhS1tsI\" target=\"_blank\" class=\"text-primary\">APS / GUCCI MANE</a>&gt;<br>_______________________________________________<br><a href=\"https://www.facebook.com/KitschClub/videos/1631368053576834/\" target=\"_blank\" class=\"text-primary\">RED BULL / KITSCH CLUB / HALLOWEEN</a>&lt;&lt;<br>__________________________////&nbsp;<a href=\"https://www.facebook.com/clubexobelgium/videos/1249661718511210/\" target=\"_blank\" class=\"text-primary\">CLUB EXO / 3YR ANNIVERSARY</a><br>&lt;&lt;&lt;&lt;&lt;&lt;&lt;<a href=\"https://www.youtube.com/watch?v=9-tvZjs3iBY\" class=\"text-primary\">APS / YOUNG THUG</a>____________________________________________<a href=\"https://www.facebook.com/clubexobelgium/videos/1249661718511210/\" target=\"_blank\" class=\"text-primary\"><br></a>__________________<a href=\"https://www.youtube.com/watch?v=BqzAXrWtZpg\" class=\"text-primary\">APS / SEAN PAUL</a>___/<br><a href=\"https://vimeo.com/218083643\" target=\"_blank\" class=\"text-primary\">WECANDANCE / MERCH PROMO&nbsp;2017</a>________/////////<br>- - - - - - - - - -&nbsp;<br><a href=\"https://www.instagram.com/p/BcnREPUA-Ho/?taken-by=noizvideo\" class=\"text-primary\">FULL CIRCLE BELGIUM {LEFTO/FAISAL/AMELIE LENS/FARRAGO/...} _ W/NOIZ &amp; MADCAP</a> _<br>_________________________________________________________<br>_________________&lt;&gt;____/ <a href=\"https://www.instagram.com/p/BcSVNIaH6OB/?taken-by=cashfree_app\" class=\"text-primary\">CASHFREE / TOPCOPY GREEN</a><br><a href=\"https://www.youtube.com/watch?v=YmMyRhOHbc4\" class=\"text-primary\">APS / COELY</a>&nbsp;/////////<br>÷÷÷ <a href=\"https://www.youtube.com/watch?v=06RAt2SXQ6Q\" class=\"text-primary\">APS / LES ARDENTES 2017</a> ÷÷÷<br>/// <a href=\"https://www.youtube.com/watch?v=N9cgcMbkKnk\" class=\"text-primary\">APS / DAMIAN MARLEY</a>__________________________________________________________/<br><a href=\"https://www.youtube.com/watch?v=-J5QScnad-g\" class=\"text-primary\">APS / GOLDLINK</a>_____=____/<br>___________________________<a href=\"https://www.youtube.com/watch?v=3j6BuYxG9Sk\" class=\"text-primary\">APS / MICK JENKINS</a><br>&gt;&gt;__ <a href=\"https://www.youtube.com/watch?v=cULDKd85lLM\" class=\"text-primary\">COELY _ NO WAY / BTS</a>________________+++<br>+++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>________________________________________________<a href=\"https://www.youtube.com/watch?v=mWz3rUqLBLA\" class=\"text-primary\">APS / STEFFLON DON</a><br><a href=\"https://www.youtube.com/watch?v=g7Ssp8t0itY\" class=\"text-primary\">ELROW / °°°PSYCHEDELIC TRIP _ NIELS FEIJEN°°° / ROTTERDAM</a><br>__________________ __________________ _______________<br>&lt;&lt;=&nbsp;<a href=\"https://www.youtube.com/watch?v=fXJ0mvD_FTU\" class=\"text-primary\">APS / RALEIGH RITCHIE</a>&nbsp;≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠<br>---------------------<br><a href=\"https://www.youtube.com/watch?v=NOtDx6o1EJg\" class=\"text-primary\">APS / AMO ACHILLE</a><br>--<br>APS / RAPSODY<br><br><a href=\"https://www.youtube.com/watch?v=g7Ssp8t0itY\" class=\"text-primary\"><br></a><br><br><a href=\"https://vimeo.com/218083643\" target=\"_blank\" class=\"text-primary\"><br></a><br>",
           "_tags": [
             "Theme"
@@ -286,14 +353,37 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#161616"
+          },
+          "title": "<a href=\"index.html\" class=\"text-primary\">H O M E</a>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20"
+        },
+        {
           "_params": {
             "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "54",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "53",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -329,7 +419,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "__________________________________&lt;&lt; EPISODES &gt;&gt;<br><h5>still frames shot SEPT 2017 - ∞</h5><br><br><h5>This ongoing collection consists of stills, shot during my daily life. They are meant to be seen as a whole, to create interaction between frames and let the audience generate individual insights.</h5>",
+          "text": "__________________________________&lt;&lt; EPISODES &gt;&gt;<br><h5>still frames shot SEPT 2017 - ∞</h5><br><h5>This ongoing collection consists of stills, episodes, shot during my daily life.</h5><br><h5>They are meant to be seen as a whole, to create interaction between frames and let the audience generate individual insights.</h5><br><h5>- each frame is laserprinted 20x30cm -&nbsp;</h5>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"

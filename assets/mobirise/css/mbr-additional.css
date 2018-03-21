@@ -532,3 +532,10 @@ h6,
   font-family: 'PT Serif', serif;
   font-size: 17px;
 }
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-20 .mbr-section-title {
+  font-size: 15px;
+}
