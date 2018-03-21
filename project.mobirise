@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -154,7 +154,7 @@
             "paddingBottom": "0",
             "bgColor": "#161616"
           },
-          "title": "<i><a href=\"experiment.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"experiment.html\" class=\"text-primary\">&lt;&lt;W O R K &nbsp;IN &nbsp;P R O G R E S S</a><a href=\"contact.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"contact.html\" class=\"text-primary\">_______________&gt;&gt; C O N T A C T</a></i><br><br>",
+          "title": "<i><a href=\"index.html\" class=\"text-primary\">J E R E M Y &nbsp;D' H A M E R S &nbsp;&lt;&lt;<br></a></i><br><i><a href=\"experiment.html\" class=\"text-primary\">&lt;&lt;W O R K &nbsp;IN &nbsp;P R O G R E S S</a><a href=\"contact.html\" class=\"text-primary\"><br></a></i><br><i><a href=\"contact.html\" class=\"text-primary\">_______________&gt;&gt; C O N T A C T</a></i><br><br>",
           "meta": "________/......<br><a href=\"https://www.youtube.com/watch?v=_t8za9rgMSg\" target=\"_blank\" class=\"text-primary\">APS / &nbsp;JMSN</a>_________________<br>:_______________<a href=\"https://www.youtube.com/watch?v=QwJ1R2wsbQE&amp;t=125s\" target=\"_blank\" class=\"text-primary\">APS / DESIIGNER</a><i><a href=\"https://www.youtube.com/watch?v=QwJ1R2wsbQE&amp;t=125s\" target=\"_blank\" class=\"text-primary\"><br></a></i><a href=\"https://vimeo.com/256769826\" target=\"_blank\" class=\"text-primary\">LEVI'S BELGIUM / BTS SHOOT</a>______________________/<br>&lt;_______________::<a href=\"https://www.youtube.com/watch?v=YWLR2uy2OWc&amp;t=513s\" target=\"_blank\" class=\"text-primary\">APS / RAE SREMMURD</a>&gt;<br>______________________<a href=\"https://www.youtube.com/watch?v=VNlIOhS1tsI\" target=\"_blank\" class=\"text-primary\">APS / GUCCI MANE</a>&gt;<br>_______________________________________________<br><a href=\"https://www.facebook.com/KitschClub/videos/1631368053576834/\" target=\"_blank\" class=\"text-primary\">RED BULL / KITSCH CLUB / HALLOWEEN</a>&lt;&lt;<br>__________________________////&nbsp;<a href=\"https://www.facebook.com/clubexobelgium/videos/1249661718511210/\" target=\"_blank\" class=\"text-primary\">CLUB EXO / 3YR ANNIVERSARY</a><br>&lt;&lt;&lt;&lt;&lt;&lt;&lt;<a href=\"https://www.youtube.com/watch?v=9-tvZjs3iBY\" class=\"text-primary\">APS / YOUNG THUG</a>____________________________________________<a href=\"https://www.facebook.com/clubexobelgium/videos/1249661718511210/\" target=\"_blank\" class=\"text-primary\"><br></a>__________________<a href=\"https://www.youtube.com/watch?v=BqzAXrWtZpg\" class=\"text-primary\">APS / SEAN PAUL</a>___/<br><a href=\"https://vimeo.com/218083643\" target=\"_blank\" class=\"text-primary\">WECANDANCE / MERCH PROMO&nbsp;2017</a>________/////////<br>- - - - - - - - - -&nbsp;<br><a href=\"https://www.instagram.com/p/BcnREPUA-Ho/?taken-by=noizvideo\" class=\"text-primary\">FULL CIRCLE BELGIUM {LEFTO/FAISAL/AMELIE LENS/FARRAGO/...} _ W/NOIZ &amp; MADCAP</a> _<br>_________________________________________________________<br>_________________&lt;&gt;____/ <a href=\"https://www.instagram.com/p/BcSVNIaH6OB/?taken-by=cashfree_app\" class=\"text-primary\">CASHFREE / TOPCOPY GREEN</a><br><a href=\"https://www.youtube.com/watch?v=YmMyRhOHbc4\" class=\"text-primary\">APS / COELY</a>&nbsp;/////////<br>÷÷÷ <a href=\"https://www.youtube.com/watch?v=06RAt2SXQ6Q\" class=\"text-primary\">APS / LES ARDENTES 2017</a> ÷÷÷<br>/// <a href=\"https://www.youtube.com/watch?v=N9cgcMbkKnk\" class=\"text-primary\">APS / DAMIAN MARLEY</a>__________________________________________________________/<br><a href=\"https://www.youtube.com/watch?v=-J5QScnad-g\" class=\"text-primary\">APS / GOLDLINK</a>_____=____/<br>___________________________<a href=\"https://www.youtube.com/watch?v=3j6BuYxG9Sk\" class=\"text-primary\">APS / MICK JENKINS</a><br>&gt;&gt;__ <a href=\"https://www.youtube.com/watch?v=cULDKd85lLM\" class=\"text-primary\">COELY _ NO WAY / BTS</a>________________+++<br>+++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>________________________________________________<a href=\"https://www.youtube.com/watch?v=mWz3rUqLBLA\" class=\"text-primary\">APS / STEFFLON DON</a><br><a href=\"https://www.youtube.com/watch?v=g7Ssp8t0itY\" class=\"text-primary\">ELROW / °°°PSYCHEDELIC TRIP _ NIELS FEIJEN°°° / ROTTERDAM</a><br>__________________ __________________ _______________<br>&lt;&lt;=&nbsp;<a href=\"https://www.youtube.com/watch?v=fXJ0mvD_FTU\" class=\"text-primary\">APS / RALEIGH RITCHIE</a>&nbsp;≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠<br>---------------------<br><a href=\"https://www.youtube.com/watch?v=NOtDx6o1EJg\" class=\"text-primary\">APS / AMO ACHILLE</a><br>--<br>APS / RAPSODY<br><br><a href=\"https://www.youtube.com/watch?v=g7Ssp8t0itY\" class=\"text-primary\"><br></a><br><br><a href=\"https://vimeo.com/218083643\" target=\"_blank\" class=\"text-primary\"><br></a><br>",
           "_tags": [
             "Theme"
@@ -172,95 +172,26 @@
       "components": [
         {
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-family": "'PT Serif', serif"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2e2e2e!important"
+            ".mbr-section-title": {
+              "font-size": "17px"
             }
           },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#161616"
+          },
+          "title": "-- &lt;&lt;&nbsp;<a href=\"index.html\" class=\"text-primary\" style=\"font-weight: normal;\">H O M E</a>________&gt;&gt;",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "menu",
-          "_anchor": "menu-g",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "0.6",
-            "fontName": {
-              "name": "PT Serif",
-              "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "css": "'PT Serif', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo1-343x128.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header4-5\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "_name": "header3",
+          "_anchor": "header3-22"
         },
         {
           "_tags": [
@@ -358,7 +289,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "15px"
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -367,7 +298,7 @@
             "paddingBottom": "2",
             "bgColor": "#161616"
           },
-          "title": "<a href=\"index.html\" class=\"text-primary\">H O M E</a>",
+          "title": "-- &lt;&lt;&nbsp;<a href=\"index.html\" class=\"text-primary\" style=\"font-weight: normal;\">H O M E</a>________&gt;&gt;",
           "meta": "",
           "_tags": [
             "Theme"
